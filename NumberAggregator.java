@@ -28,7 +28,7 @@ public class NumberAggregator {
         } while (isMismatched);
 
         return total;
-       // sc.close();
+      
 
     }
 }
